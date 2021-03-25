@@ -1,12 +1,14 @@
 # Customer-Info-Management
 
 Project Description
+
 Simulate the realization of "Customer Information Management Software" based on the text interface.
 
 The software can insert, modify and delete customer objects (implemented by array), and can print customer schedules
 
 
 Purpose
+
 To test my understanding of Java language, knowledge of Oracle Object Programming and how to design a software application.
 
 
