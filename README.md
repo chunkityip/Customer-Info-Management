@@ -26,6 +26,8 @@ PROJECT REQUIREMENTS:
 
 *When executing "Customer List" (Menu 4), the information of all customers in the array will be listed.
 
+*When executing "Exit" (Menu 5) , the application will end after the user confirm to edit (by enrter Y or N)
+
 ![gif](https://user-images.githubusercontent.com/47329780/112473523-dc679300-8d44-11eb-8673-a78d556a0d39.gif)
 
 
