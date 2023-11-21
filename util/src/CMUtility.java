@@ -83,7 +83,7 @@ public class CMUtility {
         int n;
         while (true) {
             String s = readKeyBoard(2, true);
-            if (s.equals("")) {
+            if ("".equals(s)) {
                 return defaultValue;
             }
 
@@ -115,7 +115,7 @@ public class CMUtility {
      */
     public static String readString(int limit, String defaultValue) {
         String str = readKeyBoard(limit, true);
-        return str.equals("") ? defaultValue : str;
+        return "".equals(str) ? defaultValue : str;
     }
 
     /*
